@@ -10,7 +10,8 @@
         color: #fff;
     }
 
-    .fa-brands:hover {
+    .fa-brands:hover,
+    .fa-solid:hover {
         transition: all 0.8s linear;
         transform: rotateY(360deg);
         color: #ffc107 !important;
